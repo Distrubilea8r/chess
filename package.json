@@ -1,0 +1,22 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "ES6 chess game",
+  "main": "index.js",
+  "scripts": {
+    "dist": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/Distrubilea8r/chess.git"
+  },
+  "author": "\u0016Distrubilea8r",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
